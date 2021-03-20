@@ -1,0 +1,36 @@
+.col-md-12{
+  background-color: rgb(121, 119, 119);
+  height: 8rem;
+  font-weight: normal;
+  font-size: 5.5rem;
+  text-align: end;
+  color: white;
+}
+.col-md-3 {
+  background-color: lightgrey;
+  height: 6.5rem;
+  font-size: 3.5rem;
+  text-align: center;
+  border: 0.1px solid grey;
+  border-top: none;
+  border-left: none;
+}
+.strain {
+  background-color: #f5890d;
+  color: white;
+}
+
+.col-md-6 {
+  background-color: lightgrey;
+  height: 6.5rem;
+  font-size: 3.5rem;
+  text-align: center;
+  border: 0.1px solid grey;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
+
+.flip {
+  border-bottom: none;
+}
